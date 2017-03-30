@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "authors": [
+    "y"
+  ],
+  "description": "lucky bidwell group financial website",
+  "main": "index.html",
+  "keywords": [
+    "lucky",
+    "bidwell",
+    "group"
+  ],
+  "license": "y",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
